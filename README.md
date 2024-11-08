@@ -1,2 +1,1 @@
-# modal-window
-Modal Window
+# Modal Window
